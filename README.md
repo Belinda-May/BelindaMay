@@ -1,4 +1,4 @@
-# Hi, I`m Belinda Omondi
+# Hi, I`m Belinda Omondi, a SaaS professional learning software development
 ## About Me
 - I'm currently learning Computer Programming at IYF.
 - I'm interested in AI, web development, and data science.
